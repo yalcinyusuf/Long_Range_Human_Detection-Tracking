@@ -1,5 +1,9 @@
 # Long_Range_Human_Detection-Tracking
 
+Object Detection with Yolov5
+
+Uzun mesafe insan tespiti için  YOLO algoritması uygulanmıştır ve 200 fotoğraflık bir veri seti kullanılmıştır.
+
 Eğlenceli bir çıktı videosu hazırladım, iyi seyirler dilerim :)
 
 
