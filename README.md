@@ -1,3 +1,9 @@
 # Long_Range_Human_Detection-Tracking
 
-https://doc-08-1g-docs.googleusercontent.com/docs/securesc/8nf05auhmumkgamfv1co8htnotm126sb/4iie3qqed40gjt2lov4jmkt1apf037o6/1628788650000/03894528691698964125/03894528691698964125/1uNQwVWnfNnuqTNof7ibtJyNT_Ex6rPjj?e=download&authuser=0&nonce=ihd20n0a8hr28&user=03894528691698964125&hash=kagchold8scv4rd6ofbvuh2cf21t7g8m
+Eğlenceli bir çıktı videosu hazırladım, iyi seyirler dilerim :)
+
+
+https://user-images.githubusercontent.com/61952281/129240474-d8011ebc-bbce-419e-b507-106f59639663.mp4
+
+
+
